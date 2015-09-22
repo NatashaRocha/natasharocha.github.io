@@ -1,0 +1,20 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: url('http://i16.photobucket.com/albums/b22/nattycdb/c39f1472-d40b-4788-a8e6-29ece0a5630b.jpg~original');
+  background-size: cover;
+  text-align: center;
+  color: #333;
+}
+
+.mail {
+  color: palevioletred;
+}
+
+.fa {
+  color: #333;
+  margin: 0px 3px;
+}
+
+.fa:hover {
+  color: palevioletred;
+}
