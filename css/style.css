@@ -21,7 +21,7 @@ h1 {
   font-size: 8em;
   margin: 0;
   color: #333;
-  mix-blend-mode: multiply;
+  //mix-blend-mode: multiply;
   text-transform: uppercase;
 }
 
